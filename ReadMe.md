@@ -17,5 +17,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yago030&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yago&label=Vistas%3A%20&color=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

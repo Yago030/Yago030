@@ -2,7 +2,7 @@
 
 **Full Stack Developer | DevOps-Oriented | Apasionado por el aprendizaje continuo**  
 
-Desde mis raíces humildes hasta mi camino en la tecnología, me motiva construir soluciones digitales que unan **disciplina, creatividad y eficiencia**. Tengo experiencia en **Angular, React Native, Supabase y .NET**, y busco siempre crear aplicaciones **escalables, seguras y con impacto real**.  
+Desde mis raíces lejos de la ciudad donde no existian dispositivos a nuestro alcance,  hasta mi camino en la tecnología, me motiva construir soluciones digitales que unan **disciplina, creatividad y eficiencia**. Tengo experiencia en **Angular, React Native, Supabase y .NET**, y busco siempre crear aplicaciones **escalables, seguras y con impacto real**.  
 
 ---
 

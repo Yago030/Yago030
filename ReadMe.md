@@ -123,7 +123,12 @@ Principios que guían mi trabajo:
 ---
 
 
+##  GitHub Stats
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yago030&show_icons=true&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&theme=one_dark_pro&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top languages" />
+</p>
 
 ---
 

@@ -1,54 +1,143 @@
-#  ¡Hola! Soy Santiago Bergerat  
+# Santiago Bergerat
 
-**Full Stack Developer | DevOps-Oriented | Apasionado por el aprendizaje continuo**  
+**Full Stack Developer · SaaS Builder · Software Architecture (in progress)**
 
-Desde mis raíces lejos de la ciudad donde no existian dispositivos a nuestro alcance,  hasta mi camino en la tecnología, me motiva construir soluciones digitales que unan **disciplina, creatividad y eficiencia**. Tengo experiencia en **Angular, React Native, Supabase y .NET**, y busco siempre crear aplicaciones **escalables, seguras y con impacto real**.  
+Desarrollo software orientado a negocio, con foco en **arquitectura, mantenibilidad y escalabilidad**.
 
----
-
-##  Lo que estoy haciendo ahora  
-- Desarrollando **apps web escalables** con **Angular + Supabase + .NET**.  
-- Explorando **C# y .NET** con foco en arquitectura y buenas prácticas.  
-- Diseñando y consumiendo **APIs** para automatizar flujos de negocio.  
-- Creando **bots y servicios de mensajería** con Python para notificaciones y gestión de clientes.  
-- Mejorando habilidades de **UI/UX** con **CSS, Sass y Tailwind**.  
-- Profundizando en **Swagger, documentación de APIs y patrones de diseño**.  
+Trabajo principalmente con **Angular, React Native, Supabase y .NET**, construyendo aplicaciones web y móviles, sistemas internos y plataformas SaaS. Me interesa diseñar soluciones que no solo funcionen, sino que puedan evolucionar de forma ordenada en producción.
 
 ---
 
-##  Tecnologías que uso  
-**Frontend:** Angular • React Native • HTML • CSS • Sass • Tailwind  
-**Backend:** Python (Flask) • C# .NET • Supabase (Postgres)  
-**Bases de Datos:** MariaDB • SQL • PostgreSQL  
-**Herramientas & DevOps:** Git • Docker • VS Code • Visual Studio • Oracle Cloud  
+##  Qué hago
+
+- Desarrollo de aplicaciones web con **Angular + TypeScript**
+- Backend y lógica de negocio con **.NET / Python**
+- Modelado de datos y backend-as-a-service con **Supabase (PostgreSQL, RLS, RPC)**
+- Apps móviles con **React Native (Expo)**
+- Integración de APIs y automatización de procesos
+- Deploys y operación técnica en entornos productivos (**Docker, VPS, Netlify/Vercel**)
 
 ---
 
-##  Filosofía de aprendizaje  
-Creo en la disciplina de un guerrero y la curiosidad de un aprendiz.  
-Me interesa la **arquitectura de software, seguridad, escalabilidad y optimización de rendimiento**.  
-Cada línea de código es una oportunidad para crecer.  
+##  Enfoque técnico
+
+Me estoy especializando en:
+
+- Arquitectura de software
+- Sistemas **multi-tenant**
+- Diseño de bases de datos relacionales
+- Seguridad y control de acceso (roles, permisos, RLS)
+- APIs claras y documentación técnica
+- Performance y mantenibilidad en frontend
+- SEO técnico para productos web
 
 ---
 
-_“La disciplina vence al talento cuando el talento no se disciplina.”_   
+##  Formación complementaria (aplicada)
 
+Además de mi formación técnica, realizo cursos y práctica continua en temas que hoy impactan directamente el desarrollo de productos:
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-bergerat-797b7b1ba ) 
+- **LLMs e IA aplicada al desarrollo**
+- **Prompting y uso de IA para productividad técnica**
+- **SEO / posicionamiento web** (enfoque técnico y semántico)
+- **Automatización y agentes** orientados a procesos
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yago030&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yago030&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Mi objetivo con esto no es seguir tendencias, sino integrar herramientas y enfoques que mejoren **tiempos, calidad y resultados** en proyectos reales.
 
+---
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+##  Stack principal
 
+### Frontend
+- Angular
+- TypeScript
+- React Native
+- RxJS
+- Sass / Tailwind CSS
 
-[![](https://visitcount.itsvg.in/api?id=Yago030&icon=2&color=4)](https://visitcount.itsvg.in)
+### Backend
+- .NET (C#)
+- Python
+- Supabase
+- REST APIs
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Base de datos
+- PostgreSQL
+- MariaDB
+- SQL
+
+### Infra & DevOps
+- Git / GitHub
+- Docker
+- Linux VPS
+- Netlify / Vercel
+- Cloudflare
+
+---
+
+##  Experiencia reciente (selección)
+
+- **Plataformas SaaS multi-tenant** para gestión y operaciones
+- **Dashboards administrativos** con roles y permisos
+- **Integraciones API** para consultas, validaciones y automatización
+- **Apps móviles de soporte operativo** con foco en usabilidad y sincronización
+- **Optimización de modelos de datos** y flujos de negocio
+- **Mejoras de SEO técnico** en sitios y productos web
+
+---
+
+##  Tecnologías clave
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+---
+
+##  Tipo de proyectos en los que aporto valor
+
+- Plataformas SaaS B2B
+- Sistemas internos para empresas
+- Automatización de procesos operativos
+- Aplicaciones con visión de crecimiento (escalables y mantenibles)
+
+---
+
+##  Cómo trabajo
+
+Busco construir software con criterio técnico y visión de producto.
+
+Principios que guían mi trabajo:
+- **Claridad** antes que complejidad
+- **Mantenibilidad** antes que soluciones rápidas
+- **Escalabilidad** desde el diseño
+- **Mejora continua** en arquitectura y buenas prácticas
+
+---
+
+##  GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yago030&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&theme=one_dark_pro&hide_border=true&layout=compact" height="165" alt="Top languages" />
+</p>
+
+> Si en algún momento uno de estos widgets falla, es normal (dependen de servicios externos de terceros).
+
+---
+
+##  Contacto
+
+- **LinkedIn:** [santiago-bergerat-797b7b1ba](https://www.linkedin.com/in/santiago-bergerat-797b7b1ba)
+- **GitHub:** [Yago030](https://github.com/Yago030)
+
+---
+
+> “La disciplina vence al talento cuando el talento no se disciplina.”

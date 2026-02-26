@@ -130,7 +130,14 @@ Principios que guían mi trabajo:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luna201&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luna201&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luna201&theme=tokyonight" height="150" />
+</p>
 ---
 
 ##  Contacto

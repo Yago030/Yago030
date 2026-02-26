@@ -125,15 +125,16 @@ Principios que guían mi trabajo:
 
 ##  GitHub Stats
 
-
-
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yago030&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yago030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yago030&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yago030&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ##  Contacto

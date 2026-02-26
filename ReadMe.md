@@ -125,20 +125,20 @@ Principios que guían mi trabajo:
 
 ##  GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Yago030&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yago030&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+##  GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yago030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yago030&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yago030&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yago030&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yago030&theme=tokyonight" height="150" />
-</p>
----
 
 ##  Contacto
 

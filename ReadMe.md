@@ -122,16 +122,6 @@ Principios que guían mi trabajo:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yago030&theme=one_dark_pro&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago030&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yago030&theme=tokyonight" />
 </p>
@@ -140,6 +130,8 @@ Principios que guían mi trabajo:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yago030&theme=tokyonight" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yago030&theme=tokyonight" height="150" />
 </p>
+
+
 ##  Contacto
 
 - **LinkedIn:** [santiago-bergerat-797b7b1ba](https://www.linkedin.com/in/santiago-bergerat-797b7b1ba)
